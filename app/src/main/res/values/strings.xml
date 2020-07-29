@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Puppy App</string>
     <string name="textview">Bienvenidos</string>
     <string name="button">Ingresar</string>
     <string name="todo">TODO</string>
